@@ -1,0 +1,12 @@
+{
+  "name": "NodeJSTwoPrj",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "^4.16.4"
+  }
+}
